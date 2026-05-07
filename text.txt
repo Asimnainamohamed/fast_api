@@ -1,0 +1,5 @@
+pip freeze > requirements.txt
+this is  the dependencis . you write down the this command 
+it create own dependencis from your are install the pip 
+like fastapi and extra
+
